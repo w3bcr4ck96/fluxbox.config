@@ -1,0 +1,2 @@
+# fluxbox.config
+dotfiles
